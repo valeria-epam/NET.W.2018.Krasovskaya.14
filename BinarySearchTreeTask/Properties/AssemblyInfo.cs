@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MatrixRepresentation.Tests")]
+[assembly: AssemblyTitle("BinarySearchTreeTask")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MatrixRepresentation.Tests")]
+[assembly: AssemblyProduct("BinarySearchTreeTask")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0b382128-73ac-4d07-8dd5-322be98a4b4e")]
+[assembly: Guid("72ad03c9-b5bc-454b-99f8-5ca0c9de995c")]
 
 // Version information for an assembly consists of the following four values:
 //

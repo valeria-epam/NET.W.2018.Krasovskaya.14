@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRepresentations", "Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRepresentation.Tests", "MatrixRepresentation.Tests\MatrixRepresentation.Tests.csproj", "{0B382128-73AC-4D07-8DD5-322BE98A4B4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTreeTask", "BinarySearchTreeTask\BinarySearchTreeTask.csproj", "{72AD03C9-B5BC-454B-99F8-5CA0C9DE995C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree.Tests", "BinarySearchTree.Tests\BinarySearchTree.Tests.csproj", "{B274EE2A-4DCD-4789-90A1-13D94F00B9ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{0B382128-73AC-4D07-8DD5-322BE98A4B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B382128-73AC-4D07-8DD5-322BE98A4B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B382128-73AC-4D07-8DD5-322BE98A4B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72AD03C9-B5BC-454B-99F8-5CA0C9DE995C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AD03C9-B5BC-454B-99F8-5CA0C9DE995C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AD03C9-B5BC-454B-99F8-5CA0C9DE995C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AD03C9-B5BC-454B-99F8-5CA0C9DE995C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B274EE2A-4DCD-4789-90A1-13D94F00B9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B274EE2A-4DCD-4789-90A1-13D94F00B9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B274EE2A-4DCD-4789-90A1-13D94F00B9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B274EE2A-4DCD-4789-90A1-13D94F00B9ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
