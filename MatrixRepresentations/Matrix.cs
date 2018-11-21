@@ -26,6 +26,16 @@ namespace MatrixRepresentations
         /// </summary>
         public static Matrix<T> Add(Matrix<T> matrix1, Matrix<T> matrix2)
         {
+            if (matrix1 == null)
+            {
+                throw new ArgumentNullException(nameof(matrix1));
+            }
+
+            if (matrix2 == null)
+            {
+                throw new ArgumentNullException(nameof(matrix2));
+            }
+
             if (matrix1.Size != matrix2.Size)
             {
                 throw new InvalidOperationException();
